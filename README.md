@@ -18,5 +18,3 @@ This project is a starting point for a Flutter application.
 If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of ☕️
 
 [PayPal](https://paypal.me/ankeshkumar01)
-
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60px" width="200px"/>](https://www.buymeacoffee.com/ankeshkumar)
