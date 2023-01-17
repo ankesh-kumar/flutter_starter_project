@@ -2,7 +2,7 @@ name: flutter_starter_project
 description: flutter starter project having functions, widget which can be resued
 
 version: 1.0.0+1
-homepage: https://github.com/ankesh-kumar
+homepage: https://github.com/ankesh-kumar/flutter_starter_project
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
